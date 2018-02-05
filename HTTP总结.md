@@ -1,7 +1,7 @@
 # HTTP协议
 #http协议 #curl  #http2
  
-![网络模型](https://github.com/bsxz0604/RemarkForYouDontKnowJs/blob/master/HTTP/HTTP协议.svg)
+![HTTP协议](https://github.com/bsxz0604/RemarkForYouDontKnowJs/blob/master/HTTP/HTTP协议.svg)
 
 ## 定义
 HTTP( HyperText Transfer Protocol )超文本传输协议 ，是一种用于分布式、协作式和超媒体信息系统的*应用层*协议。设计HTTP最初的目的是为了提供一种发布和接收HTML页面的方法。通过HTTP或者HTTPS协议请求的资源由统一资源标识符（Uniform Resource Identifiers，URI）来标识。

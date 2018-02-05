@@ -1,6 +1,8 @@
 # HTTP协议
 #http协议 #curl  #http2
  
+![网络模型](https://github.com/bsxz0604/RemarkForYouDontKnowJs/blob/master/HTTP/HTTP协议.svg)
+
 ## 定义
 HTTP( HyperText Transfer Protocol )超文本传输协议 ，是一种用于分布式、协作式和超媒体信息系统的*应用层*协议。设计HTTP最初的目的是为了提供一种发布和接收HTML页面的方法。通过HTTP或者HTTPS协议请求的资源由统一资源标识符（Uniform Resource Identifiers，URI）来标识。
 
@@ -165,7 +167,7 @@ HTTP/2.0规定了在客户端和服务器端会使用并且维护「首部表」
 
 
 ## 总结
-如果没有时间看，直接看这里(还有思维导图还没好...晚点补上)，我尽可能的总结了我觉得好的东西。
+如果没有时间看，直接看这里和以第一张的思维导图。如果你觉得好，点个star.这个是我的git地址 [我的Git地址](https://github.com/bsxz0604)
 * HTTP是一种无状态、无连接的*应用层*协议
 * 现在主流的在使用的是HTTP/1.1 （特点：持久链接，增加缓存处理，支持断点传输）和 HTTP/2（特点：二进制分帧，首部压缩，多路复用，服务端推送）
 * HTTPS  是由TLS（SSL）提供安全的HTTP协议

@@ -1,4 +1,5 @@
 我们先看到的是navigation timing监测指标图,是HTML5提供的一组新API，已经在很多主流的浏览器中实现了,最后会有图说明支持的浏览器(不想承认IE是主流浏览器ing….
+
 ![RequestToDoWhat.jpg](https://upload-images.jianshu.io/upload_images/3290028-154cd7733a0a5486.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![navigationTime.png](https://upload-images.jianshu.io/upload_images/3290028-66f0a4ffe6b5a2e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

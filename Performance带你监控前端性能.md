@@ -82,6 +82,6 @@ clearResourceTimings:  ƒ clearResourceTimings()
 * 是当前时间与performance.timing.navigationStart的时间差,以微秒（百万分之一秒）为单位的时间，与 Date.now()-performance.timing.navigationStart的区别是不受系统程序执行阻塞的影响，因此更加精准
 now:  ƒ now()
 
-##总结
+## 总结
 Performance用来做前端性能监控，就2个字形容:利器...
 当然这只是前端性能优化的第一步（性能的路上我也只看到了冰山一角），道阻且长 ~ 所以希望大家提出问题和指出疑问，一起进步~

@@ -16,8 +16,11 @@ HTTP( HyperText Transfer Protocol )超文本传输协议 ，是一种用于分�
 因为HTTP是基于TCP/IP开发的协议，看过HTTP协议的同学肯定都知道，有句话概述HTTP协议为无差错的协议，按序传输，未分段的数据流，这其实说的就是TCP协议。
 
 2. 当你在浏览器输入一个URL的时候，其中发生了什么？
+
+![浏览器处理用户请求](https://github.com/bsxz0604/RemarkForYouDontKnowJs/blob/master/HTTP/requestTowhat.jpg)
+
 	* 获取主机名
-	* DNS 缓存/ 解析 获取服务器IP + 端口 (浏览器缓存，系统缓存，路由器缓存，IPS服务器缓存，根域名服务器缓存，顶级域名服务器缓存，主域名服务器缓存)
+	* 缓存/DNS 解析 获取服务器IP + 端口 (浏览器缓存，系统缓存，路由器缓存，IPS服务器缓存，根域名服务器缓存，顶级域名服务器缓存，主域名服务器缓存)
 	* 连接到服务器 （这里其实是TCP连接）
 	* 通过TCP信道发送一个HTTP请求
 	* 服务器读取一个HTTP请求

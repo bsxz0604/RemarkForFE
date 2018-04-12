@@ -4,3 +4,5 @@
 ### [作用域与闭包](https://github.com/bsxz0604/RemarkForYouDontKnowJs/blob/master/%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E9%97%AD%E5%8C%85.md)
 
 ### [HTTP协议](https://github.com/bsxz0604/RemarkForFE/blob/master/HTTP%E6%80%BB%E7%BB%93.md)
+
+### [Performance带你监控前端性能](https://github.com/bsxz0604/RemarkForFE/blob/master/Performance带你监控前端性能.md)

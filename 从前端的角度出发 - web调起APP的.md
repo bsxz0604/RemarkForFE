@@ -152,15 +152,15 @@ twitter:
 		* 官方生成/检测: [android app links检测](https://developers.google.com/digital-asset-links/tools/generator)
 
 4. facebook ([facebook app link官方文档]( https://developers.facebook.com/docs/applinks))
-		- 将需要的meta头信息填充完毕
-		- 检测链接 [分享调试器 - Facebook for Developers](https://developers.facebook.com/tools/debug/sharing/) , 确认分享链接中获取到了所需要的meta头
-		- 分享过的链接会有缓存，在检测中清楚缓存
-		- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取
+	- 将需要的meta头信息填充完毕
+	- 检测链接 [分享调试器 - Facebook for Developers](https://developers.facebook.com/tools/debug/sharing/) , 确认分享链接中获取到了所需要的meta头
+	- 分享过的链接会有缓存，在检测中清楚缓存
+	- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取
 
 5. twitter ([Twitter app card官方文档]( https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/app-card))
-		- 将需要的meta头信息填充完毕
-		- 检测链接 [Twitter app card 检测](https://cards-dev.twitter.com/validator)
-		- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取
+	- 将需要的meta头信息填充完毕
+	- 检测链接 [Twitter app card 检测](https://cards-dev.twitter.com/validator)
+	- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取
 		
 ### 链接
 1. [webview如何屏蔽universal Link](https://stackoverflow.com/questions/38450586/prevent-universal-links-from-opening-in-wkwebview-uiwebview)

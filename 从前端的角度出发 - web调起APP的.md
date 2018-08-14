@@ -157,7 +157,7 @@ twitter:
 		- 分享过的链接会有缓存，在检测中清楚缓存
 		- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取
 
-	5. twitter ([Twitter app card官方文档]( https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/app-card))
+5. twitter ([Twitter app card官方文档]( https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/app-card))
 		- 将需要的meta头信息填充完毕
 		- 检测链接 [Twitter app card 检测](https://cards-dev.twitter.com/validator)
 		- 如果web和wap链接一致，确认在web中也添加了相同的meta头，facebook会默认从web中获取

@@ -14,7 +14,7 @@
 
 1. URI Scheme:
 	* URI Scheme 是iOS，Android平台都支持，只需要原生APP开发时注册 scheme ， 用户点击到此类链接时，会自动唤醒APP，借助于 URL Router 机制，则还可以跳转至指定页面。
-	* <scheme name> : <hierarchical part> [ ? <query> ] [ # <fragment> ]
+	* " <scheme name> : <hierarchical part> [ ? <query> ] [ # <fragment> ] "
 		* <scheme name>：是scheme的名称，代表着协议名称。
 		* <hierarchical part>：它包含 authority 和 path。 
 		* <query>：可选项目，隔开或&隔开的键值对<key>=<value>

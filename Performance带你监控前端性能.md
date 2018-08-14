@@ -1,6 +1,5 @@
-#Performance — 带你监控前端性能
-
 我们先看到的是navigation timing监测指标图,是HTML5提供的一组新API，已经在很多主流的浏览器中实现了,最后会有图说明支持的浏览器(不想承认IE是主流浏览器ing….
+
 ![RequestToDoWhat.jpg](https://upload-images.jianshu.io/upload_images/3290028-154cd7733a0a5486.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![navigationTime.png](https://upload-images.jianshu.io/upload_images/3290028-66f0a4ffe6b5a2e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -84,11 +83,6 @@ clearResourceTimings:  ƒ clearResourceTimings()
 * 是当前时间与performance.timing.navigationStart的时间差,以微秒（百万分之一秒）为单位的时间，与 Date.now()-performance.timing.navigationStart的区别是不受系统程序执行阻塞的影响，因此更加精准
 now:  ƒ now()
 
-##总结
+## 总结
 Performance用来做前端性能监控，就2个字形容:利器...
 当然这只是前端性能优化的第一步（性能的路上我也只看到了冰山一角），道阻且长 ~ 所以希望大家提出问题和指出疑问，一起进步~
-
-之前写的文章大家感兴趣的话，也可以阅读了解讨论:
-[HTTP协议浅谈](https://www.jianshu.com/p/3d1a2e37c25d)
-[Javascript作用域和闭包](https://www.jianshu.com/p/544d1c3db1c7)
-
